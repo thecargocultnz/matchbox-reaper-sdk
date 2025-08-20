@@ -1,3 +1,3 @@
 [submodule "WDL"]
-	path = WDL
+	path = third_party/WDL
 	url = https://github.com/justinfrankel/WDL
